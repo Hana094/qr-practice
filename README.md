@@ -20,8 +20,8 @@ Small practice of css with plain html
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Hana094/qr-practice)
+- Live Site URL: (https://hana094.github.io/qr-practice/)
 
 ## My process
 
